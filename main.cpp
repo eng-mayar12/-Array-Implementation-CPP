@@ -4,10 +4,11 @@
 using namespace std;
 class MyArray{
     
-    public:
+    private:
     int *arr;
     int length=0;
     int size;
+Public:
     MyArray(int EnteredSize){
         size=EnteredSize;
         arr=new int[size];
