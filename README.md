@@ -1,34 +1,40 @@
-Array & Linked List Implementation in C++
+# Array & Linked List Implementation in C++
+
 A custom Array and Linked List built from scratch using Object-Oriented Programming (OOP) concepts.
 
-Features
-Array:
+---
 
-Add elements: AddFirst, AddLast, AddIndex
-Remove elements: RemoveFirst, RemoveLast, RemoveAt
-Sorting: Selection Sort & Insertion Sort
-Utilities: show, count, isEmpty, clear
+## Features
 
-Linked List:
+**Array:**
+* Add elements: AddFirst, AddLast, AddIndex
+* Remove elements: RemoveFirst, RemoveLast, RemoveAt
+* Sorting: Selection Sort & Insertion Sort
+* Utilities: show, count, isEmpty, clear
 
-Add elements: addFirst, addLast, addIn
-Remove elements: removeFirst, removeLast, removeAt
-Utilities: Show, sizze, empty, clear, Search
+**Linked List:**
+* Add elements: addFirst, addLast, addIn
+* Remove elements: removeFirst, removeLast, removeAt
+* Utilities: Show, sizze, empty, clear, Search
 
+---
 
-Tech Stack
+## Tech Stack
 
-Language: C++
-Concepts: OOP, Data Structures, Dynamic Memory Allocation
+* Language: C++
+* Concepts: OOP, Data Structures, Dynamic Memory Allocation
 
+---
 
-Purpose
+## Purpose
+
 Built to strengthen understanding of:
 
-OOP principles (classes, encapsulation, constructors)
-Array & Linked List data structure implementation
-Sorting algorithms
+* OOP principles (classes, encapsulation, constructors)
+* Array & Linked List data structure implementation
+* Sorting algorithms
 
+---
 
-Author
+## Author
 Nadia Mamdouh
